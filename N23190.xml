@@ -115,13 +115,15 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:030653_0000_0FE84F00B2A27A88"/>
-            <pb facs="tcp:030653_0001_0FE84F085ACCFA28" rendition="simple:additions"/>
+            <pb facs="unknown:030653_0000_0FE84F00B2A27A88"/>
+            <pb facs="unknown:030653_0001_0FE84F085ACCFA28"
+                rendition="simple:additions"/>
             <p>Mr. KELLOGG's SERMON, PREACHED BEFORE THE <hi>MIDDLESEX LODGE,</hi> JUNE 24th, 1796.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:030653_0002_0FE84EFDB4E86B18" rendition="simple:additions"/>
-            <pb facs="tcp:030653_0003_0FE84F0FC6083C38"/>
+            <pb facs="unknown:030653_0002_0FE84EFDB4E86B18"
+                rendition="simple:additions"/>
+            <pb facs="unknown:030653_0003_0FE84F0FC6083C38"/>
             <p>THE NATURE, OBLIGATION AND IMPORTANCE OF CHRISTIAN COMPASSION, ILLUSTRATED; IN A SERMON PREACHED BEFORE THE <hi>MIDDLESEX LODGE,</hi> OF FREE AND ACCEPTED MASONS, IN <hi>FRAMINGHAM,</hi> ON THE TWENTY-FOURTH DAY OF JUNE, 1796.</p>
             <p>BY DAVID KELLOGG, PASTOR OF THE CHURCH IN SAID TOWN.</p>
             <p>
@@ -132,8 +134,9 @@
       </front>
       <body>
          <div type="sermon">
-            <pb facs="tcp:030653_0004_0FE84F115520C870" rendition="simple:additions"/>
-            <pb facs="tcp:030653_0005_0FE84F1C97F2AD20"/>
+            <pb facs="unknown:030653_0004_0FE84F115520C870"
+                rendition="simple:additions"/>
+            <pb facs="unknown:030653_0005_0FE84F1C97F2AD20"/>
             <epigraph>
                <q>
                   <bibl>
@@ -145,7 +148,7 @@
             <p>IT is a diſtinguiſhing characteriſtic of the Goſpel, that it gives clear, and conſiſtent views of the perfections, and government of God: that it re<g ref="char:EOLhyphen"/>veals a ſyſtem of doctrines incomparably ſublime, perfectly pure, and with infinite wiſdom adapted to the circumſtances of man: that, it enjoins duties per<g ref="char:EOLhyphen"/>fectly reaſonable; as they reſult, not ſolely in the ſovereign will of the Supreme; but neceſſarily orig<g ref="char:EOLhyphen"/>inate in the infinite perfection of his nature, and the particular ſtanding of man, as a rational, dependent, ſocial being; and tend to exalt his nature; to ren<g ref="char:EOLhyphen"/>der him uſeful, and happy; as an individual, a mem<g ref="char:EOLhyphen"/>ber of a particular ſociety, a citizen of the world, and a probationer for immortality.</p>
             <p>Among many of thoſe excellent, and intereſting doctrines of chriſtianity, that, in our text is one, of eminent rank: and that is, the importance of chriſt<g ref="char:EOLhyphen"/>ian charity, or benevolence.</p>
             <p>This, the Apoſtle conſiders ſo eſſential a part of the chriſtian temper, that without it, no man can
-<pb n="6" facs="tcp:030653_0006_0FE84F1E29BA4BF8"/>
+<pb n="6" facs="unknown:030653_0006_0FE84F1E29BA4BF8"/>
 exiſt a friend to God, or be ſuppoſed to exerciſe love to the great Author of good.</p>
             <p>"Whoſo hath this world's good, and ſeeth his brother have need, and ſhutteth up his bowels of compaſſion from him, how dwelleth the love of God in him?"</p>
             <p>This interrogation involves a ſtrong negation. A man who cannot cordially ſympathize with the afflict<g ref="char:EOLhyphen"/>ed, and contribute a proportion of his time, intereſt and talents, to a ſupply of the indigent, and relief of the diſtreſſed, is a ſtranger to that religion, the eſſence of which is love: neither has he experienced the power of the Goſpel, which breathes benevolence.</p>
@@ -155,7 +158,7 @@ exiſt a friend to God, or be ſuppoſed to exerciſe love to the great Author o
             <p>We have high and low, rich and poor, bond and free. This always has been, and ever will be the ſtate of the world in degree, to the concluſion of time.</p>
             <p>The effect being uniform, and univerſal, demon<g ref="char:EOLhyphen"/>ſtrates a permanent cauſe; which can be no leſs, than the unalterable eſtabliſhment of heaven.</p>
             <p>Affluence and indigence, proſperity and adverſity, are by no means the reſult of blind chance, or con<g ref="char:EOLhyphen"/>tingent
-<pb n="7" facs="tcp:030653_0007_0FE84F22D795A0D0"/>
+<pb n="7" facs="unknown:030653_0007_0FE84F22D795A0D0"/>
 fate; although, in all thoſe inſtances, there is the concurring influence of natural cauſes; ſome of which operate in a meaſure, ſubordinately to hu<g ref="char:EOLhyphen"/>man controul: Yet, in general terms, reaſon and revelation teach us to adore, the ſovereign Provi<g ref="char:EOLhyphen"/>dence of God, as the ſupreme diſpoſing cauſe.</p>
             <p>This conſideration urges a perfect approbation of the preſent adjuſtment of the ſcale; renders profound ſubmiſſion indiſpenſible; and opens a way to the ex<g ref="char:EOLhyphen"/>erciſe of thoſe bowels of compaſſion inſiſted on in my text, as eſſential to the chriſtian character.</p>
             <p>The principal intention of my diſcourſe will be—</p>
@@ -166,14 +169,14 @@ fate; although, in all thoſe inſtances, there is the concurring influence of n
             <p>Obſervation and experience, have invariably evinc<g ref="char:EOLhyphen"/>ed the truths of the prediction.</p>
             <p>It is a doctrine of revelation, that the diverſe cir<g ref="char:EOLhyphen"/>cumſtances of men are ordered by Providence.</p>
             <p>
-               <pb n="8" facs="tcp:030653_0008_0FE84F2465945C80"/>Says Solomon—"The rich and the poor meet to<g ref="char:EOLhyphen"/>gether; the Lord is the maker of them all."</p>
+               <pb n="8" facs="unknown:030653_0008_0FE84F2465945C80"/>Says Solomon—"The rich and the poor meet to<g ref="char:EOLhyphen"/>gether; the Lord is the maker of them all."</p>
             <p>In contemplating the agency of Providence how<g ref="char:EOLhyphen"/>ever, in the production of any event, we ſhould re<g ref="char:EOLhyphen"/>member, that there is the concurring influence of ſecond cauſes.</p>
             <p>In a common courſe, temperance produces health. Induſtry and oeconomy procure riches; and the con<g ref="char:EOLhyphen"/>trary vices, are attended with poverty and wretch<g ref="char:EOLhyphen"/>edneſs. This is the eſtabliſhment of heaven. But ſtill, theſe cauſes do not invariably produce their ſeveral effects.</p>
             <p>Schemes projected with wiſdom, and proſecuted with diligence, are not always crowned with ſucceſs. Providence defeats our deſigns, and blaſts our faireſt proſpects.</p>
             <p>On the contrary, meaſures adopted with the leaſt poſſible degree of policy, and purſued with a careleſs indifference, which forbids the moſt diſtant probabil<g ref="char:EOLhyphen"/>ity of ſucceſs, are ſurpriſingly efficacious.</p>
             <p>Thus, riches are ſometimes procured, by cauſes apparently inadequate to the effect; and poverty ſuc<g ref="char:EOLhyphen"/>ceeds the moſt wiſely concerted meaſures for avoid<g ref="char:EOLhyphen"/>ance. In inſtances thus eſpecially remarkable the agency of Providence is peculiarly ſtriking. They abundantly verify that memorable aſſertion of Solo<g ref="char:EOLhyphen"/>mon's, "The race is not to the ſwift, nor the battle to the ſtrong, nor yet favour to men of ſkill;" but ſuch circumſtances attend them, as an infinitely wiſe Providence pleaſes to appoint.</p>
             <p>It is ſometimes the caſe, that a man of temperance ſuffers the painful effects of a ſickly habit, and cloſes the ſcene by an untimely death; while the licen<g ref="char:EOLhyphen"/>tious epicure takes his caſe, and retains a firmneſs of
-<pb n="9" facs="tcp:030653_0009_0FE84F306FCF5588"/>
+<pb n="9" facs="unknown:030653_0009_0FE84F306FCF5588"/>
 body to the evening of life. Thus, "they that pro<g ref="char:EOLhyphen"/>voke God are ſecure; into whoſe hand God bring<g ref="char:EOLhyphen"/>eth abundantly." Who knoweth not, that the hand of God is in all theſe things?" Reaſon aſſents, that there is an inviſible hand, which controuls ſecond cauſes with ſovereign wiſdom.</p>
             <p>Although all the miſery ſuffered in this world of trial, may be conſidered as the effect of human folly, in a ſecondary view; yet, we are pointed to Provi<g ref="char:EOLhyphen"/>dence, as the wiſely controuling cauſe.</p>
             <p>Human policy and power are as perfectly unable to effect a compleat equality in the circumſtances, and means of enjoyment, in reſpect to the moral world, as they are to reduce the globe to a plane. The unalterable laws of nature forbid the attempt.</p>
@@ -182,7 +185,7 @@ body to the evening of life. Thus, "they that pro<g ref="char:EOLhyphen"/>voke G
             <p>A ſeemingly trifling diſaſter, immediately throws them upon the charity of ſociety.</p>
             <p>In reſpect to others, whatever may be their local ſituation, although they are ſtationed in a place, where a luxuriant ſoil, and advantageous commerce, render an affluent living of the eaſieſt attainment poſſible; for want of a capacity to improve, or ſo much as en<g ref="char:EOLhyphen"/>joy the bounties of nature, they pine, and even ſtarve in the midſt of plenty.</p>
             <p>
-               <pb n="10" facs="tcp:030653_0010_0FE84F335AB78DC8"/>Such is the ſtate of the world; of courſe, we muſt expect objects of charity continually preſenting to view.</p>
+               <pb n="10" facs="unknown:030653_0010_0FE84F335AB78DC8"/>Such is the ſtate of the world; of courſe, we muſt expect objects of charity continually preſenting to view.</p>
             <p>In this, apparently, unequal adjuſtment of the ſcale, we may diſcover obvious marks of wiſdom and good<g ref="char:EOLhyphen"/>neſs.</p>
             <p>In the conſtruction of the natural world, the ſu<g ref="char:EOLhyphen"/>preme Architect has ordained variety; which is juſtly deemed the beauty of creation.</p>
             <p>There are bodies celeſtial, and bodies terreſtrial. Of each of thoſe ſpecies of bodies there is an al<g ref="char:EOLhyphen"/>moſt infinite variety. One excels another in point of luſtre, and importance. Says the Apoſtle, "One ſtar differeth from another ſtar in glory." There is one glory of the ſun; another glory of the moon; and another glory of the ſtars."</p>
@@ -191,47 +194,47 @@ body to the evening of life. Thus, "they that pro<g ref="char:EOLhyphen"/>voke G
             <p>A ſimilar arrangement, as it reſpects certain pur<g ref="char:EOLhyphen"/>poſes, may be deemed a diſplay of wiſdom in the moral world. Different capacities, diverſe local ſituations, various degrees of property and power, reaſon and experience atteſt are eſſential, to the order and happineſs of the univerſal whole.</p>
             <p>Various ranks of intelligencies exiſt in the heavenly world, where there is the brighteſt poſſible diſplay of the wiſdom, and goodneſs of the Creator, and Ruler of all.</p>
             <p>
-               <pb n="11" facs="tcp:030653_0011_0FE84F3805ACC240"/>But, in reſpect to objects of real miſery, whom we behold in the world, equally deſerving of eaſe, with others who ſwim in pleaſure; our feelings are recon<g ref="char:EOLhyphen"/>ciled to the painful proſpect, by a conſideration, of the immutable rectitude of the ſupreme Diſpoſer of events; and by a firm belief, that, the preſent is only a ſtate of trial, preparatory to a better; in which the myſteries of Providence will be unfolded to the view of admiring worlds.</p>
+               <pb n="11" facs="unknown:030653_0011_0FE84F3805ACC240"/>But, in reſpect to objects of real miſery, whom we behold in the world, equally deſerving of eaſe, with others who ſwim in pleaſure; our feelings are recon<g ref="char:EOLhyphen"/>ciled to the painful proſpect, by a conſideration, of the immutable rectitude of the ſupreme Diſpoſer of events; and by a firm belief, that, the preſent is only a ſtate of trial, preparatory to a better; in which the myſteries of Providence will be unfolded to the view of admiring worlds.</p>
             <p>We may further obſerve—that, a view of poverty and diſtreſs ſerves to enkindle grateful ſentiments in thoſe, who are in eaſe and affluence; to awaken their bowels of compaſſion, and call into exerciſe that cha<g ref="char:EOLhyphen"/>rity and benevolence which chriſtianity inſpires, and inculcates upon all, as ornamental to a chriſtian, and well pleaſing to God.</p>
             <p>Agreeably to the order of my diſcourſe, I will now attempt an illuſtration of the nature, obligation and importance of this chriſtian virtue urged in our text.</p>
             <p>The Apoſtle uſes neither of the terms, love, charity or benevolence, but compaſſion; this is the ſame virtue, under a different form, ſuited to the particu<g ref="char:EOLhyphen"/>lar caſe which calls forth its exerciſe.</p>
             <p>Benevolence, charity, candour, a forgiving temper, and ſympathetic compaſſion, are all compriſed in the term love; and are nothing more, than this one comprehenſive principle, appearing in different forms, and adjuſted to different circumſtances, perſons, and things.</p>
             <p>Love, when denoting general good will, is termed benevolence. When it involves delight in any par<g ref="char:EOLhyphen"/>ticular object, and a deſire for connection with it, on account of its apparent merit, or intrinſic excellence, it is complacence.</p>
             <p>
-               <pb n="12" facs="tcp:030653_0012_0FE84F399211D2F0"/>When importing a diſpoſition to a moſt favourable conſtruction of the words and actions of others, it is candour. When it intends an inclination, or ac<g ref="char:EOLhyphen"/>tually generous contribution to the relief of the neceſ<g ref="char:EOLhyphen"/>ſitous, it is beneficence. When manifeſting itſelf in a tender ſympathy with objects in miſery, and ſolici<g ref="char:EOLhyphen"/>tude for their relief, it is compaſſion. In this view of the heaven-born principle, the Apoſtle, in our text, terms it, bowels of compaſſion.</p>
+               <pb n="12" facs="unknown:030653_0012_0FE84F399211D2F0"/>When importing a diſpoſition to a moſt favourable conſtruction of the words and actions of others, it is candour. When it intends an inclination, or ac<g ref="char:EOLhyphen"/>tually generous contribution to the relief of the neceſ<g ref="char:EOLhyphen"/>ſitous, it is beneficence. When manifeſting itſelf in a tender ſympathy with objects in miſery, and ſolici<g ref="char:EOLhyphen"/>tude for their relief, it is compaſſion. In this view of the heaven-born principle, the Apoſtle, in our text, terms it, bowels of compaſſion.</p>
             <p>In my preſent diſcourſe, I ſhall not confine myſelf to this particular form of love, as diſplaying itſelf, only in a tender feeling for objects in miſery; but ſhall allow myſelf the latitude preſcribed above.</p>
             <p>It is of importance, carefully to obſerve—that, love, charity, or compaſſion, may be conſidered in two different points of view; either as a natural inſtinc<g ref="char:EOLhyphen"/>tive principle, or as a chriſtian virtue.</p>
             <p>By inſtinct is here intended, a propenſion in the creature, to certain actions adapted to his nature, without a ſenſe of duty upon his mind, or regard to the honor and authority of God. This inſtinctive principle of charity, or benevolence, however deficient as to motive, or end, when viewed in the light of chriſtianity, has its uſe, and is of ſingular import<g ref="char:EOLhyphen"/>ance in ſociety. Without it, man would ceaſe to be a ſocial being.</p>
             <p>The great Author of nature has interwoven this principle in the human conſtitution, for wiſe reaſons, and will overrule it to purpoſes of preſent impor<g ref="char:EOLhyphen"/>tance; although, he will not finally crown it with immortality.</p>
             <p>Of a much higher nature, and more noble com<g ref="char:EOLhyphen"/>plexion, is that benevolent compaſſion urged in our text, by an Apoſtle divinely inſpired.</p>
             <p>
-               <pb n="13" facs="tcp:030653_0013_0FE84F43A3E2B0F8"/>In this ſacred paſſage, as well as in other parts of the Goſpel, it is conſidered as a chriſtian virtue; originating in a ſenſe of duty to God, and reſpect to his honour; and tending in its exerciſes eſpecially towards his children; for this important reaſon; becauſe, they bear his image, and are members of Chriſt.</p>
+               <pb n="13" facs="unknown:030653_0013_0FE84F43A3E2B0F8"/>In this ſacred paſſage, as well as in other parts of the Goſpel, it is conſidered as a chriſtian virtue; originating in a ſenſe of duty to God, and reſpect to his honour; and tending in its exerciſes eſpecially towards his children; for this important reaſon; becauſe, they bear his image, and are members of Chriſt.</p>
             <p>The Apoſtle, with a freedom, and boldneſs becom<g ref="char:EOLhyphen"/>ing an embaſſador of Chriſt, declares the moſt pom<g ref="char:EOLhyphen"/>pous ſervices performed upon any principle inferior to the above, or the moſt painful and expenſive ob<g ref="char:EOLhyphen"/>lations to ſociety, deſtitute of the eſſential nature of a chriſtian duty, and of courſe a nullity, in the view of the all-perfect Judge.</p>
             <p>"Though I ſpeak with the tongues of men and Angels, and have not charity, I am become as ſound<g ref="char:EOLhyphen"/>ing braſs, or as a tinkling cymbal." "And though I have the gift of prophecy, and underſtand all myſ<g ref="char:EOLhyphen"/>teries, and have not charity, I am nothing." "And though I beſtow all my goods to feed the poor, and give my body to be burned, and have not charity, I am nothing."</p>
             <p>By charity, here, is intended evangelical love; as appears from the following paſſage—"Now abideth faith, hope, charity; theſe force; but the greateſt of theſe is charity." True love is the grace which bears this diſtinguiſhing rank; becauſe, it renders the ſub<g ref="char:EOLhyphen"/>ject more like God; and will be a predominant prin<g ref="char:EOLhyphen"/>ciple in the heavenly world, to an interminable eter<g ref="char:EOLhyphen"/>nity; while, faith and hope, are ſwallowed up, in viſion and enjoyment.</p>
             <p>This charity is to be exerciſed eſpecially, towards the children of God; who, in the Goſpel are ſtiled brethren. The Goſpel in our text ſpeaks of with<g ref="char:EOLhyphen"/>holding charitable aſſiſtance from a brother, in par<g ref="char:EOLhyphen"/>ticular, as an evidence of the abſence of a chriſtian temper.</p>
             <p>
-               <pb n="14" facs="tcp:030653_0014_0FE84F4CA748F220"/>Paul exhorts the Galatian converts to do good unto all men; eſpecially to the houſehold of faith.</p>
+               <pb n="14" facs="unknown:030653_0014_0FE84F4CA748F220"/>Paul exhorts the Galatian converts to do good unto all men; eſpecially to the houſehold of faith.</p>
             <p>True chriſtians are the excellent of the earth, as they bear the image of God; are faithful in the cauſe of God, and zealous advocates for the beſt intereſt of men.</p>
             <p>Individuals, or a ſociety of this happy character, are with the higheſt reaſon propoſed, as primary ob<g ref="char:EOLhyphen"/>jects of our tendereſt affections, and complacential regards.</p>
             <p>But, we are not confined to the chriſtian family, in our benevolent wiſhes. Particular ſocieties with which we are connected, by ſome peculiar bonds, have a right to a ſpecial ſhare of our attention, and friendly aſſiſtance. Thoſe, to whom we are allied by conſanguinity, reaſon and chriſtianity point to our view, as objects of particular regard.</p>
             <p>Partial connections are neceſſary, in the preſent imperfect ſtate. The great family cannot ſit in the ſame circle; but is unavoidably formed into detach<g ref="char:EOLhyphen"/>ed parts; each ſelect portion can beſt attend to their own improvement; each member can beſt know the wants of his own body, and ſupply them; can feel their burdens, and adminiſter to their ſupport under them, or relief from them. The wants of the great whole cannot fall under particular obſervation; nei<g ref="char:EOLhyphen"/>ther can there be a mutual converſe through ſo ex<g ref="char:EOLhyphen"/>tenſive a body.</p>
             <p>Particular ſocieties therefore, for the purpoſes of cultivating the ſocial affections, diffuſing knowledge, and promoting the happineſs of a ſelect few, are founded in reaſon, expedience, and even neceſſity. At the ſame time, a love of benevolence is due to be<g ref="char:EOLhyphen"/>ing in general. "Let us do good unto all men." is an injunction of chriſtianity. Equally extenſive is that compaſſion urged in our text.</p>
             <p>
-               <pb n="15" facs="tcp:030653_0015_0FE84F529E9EE9B8"/>It involves no leſs, than good will to all; a tender regard to the beſt intereſt of mankind, and cheerful exertions to promote the happineſs of all within the ſphere of our influence. It imparts a real participation of the joys and ſorrows of our fel<g ref="char:EOLhyphen"/>low men; that we pity the afflicted, and endeavour to relieve them; that we are concerned for the erro<g ref="char:EOLhyphen"/>neous, and wiſh to reclaim them: that we feel for the indigent, and cheerfully contribute a reaſonable ſupply; that we are placable to our enemies, and ready for reconciliation; that we can forget perſonal injuries, and forgive them: In a word—it involves a diſpoſition to communicate happineſs in a way which reaſon approves, and upon motives which chriſtianity urges, and inſpires.</p>
+               <pb n="15" facs="unknown:030653_0015_0FE84F529E9EE9B8"/>It involves no leſs, than good will to all; a tender regard to the beſt intereſt of mankind, and cheerful exertions to promote the happineſs of all within the ſphere of our influence. It imparts a real participation of the joys and ſorrows of our fel<g ref="char:EOLhyphen"/>low men; that we pity the afflicted, and endeavour to relieve them; that we are concerned for the erro<g ref="char:EOLhyphen"/>neous, and wiſh to reclaim them: that we feel for the indigent, and cheerfully contribute a reaſonable ſupply; that we are placable to our enemies, and ready for reconciliation; that we can forget perſonal injuries, and forgive them: In a word—it involves a diſpoſition to communicate happineſs in a way which reaſon approves, and upon motives which chriſtianity urges, and inſpires.</p>
             <p>Thus extenſive, and ſublime, is that chriſtian com<g ref="char:EOLhyphen"/>paſſion recommended in our text.</p>
             <p>Theſe obſervations open a way to an illuſtration of its obligation, and importance.</p>
             <p>To exerciſe this heavenly temper, renders a man as near a reſemblance of God, as humanity will admit. "God is love; and he that dwelleth in love, dwelleth in God, and God in him."</p>
             <p>By this moſt forcible argument, chriſtian charity is urged by our bleſſed Lord, upon his dear diſciples. "I ſay unto you, love your enemies; bleſs them that curſe you; that ye may be the children of your Father who is in heaven; for he maketh his ſun to riſe, on the evil, and on the good."</p>
             <p>Thus by exerciſing a diffuſive benevolence, to<g ref="char:EOLhyphen"/>wards the unworthy, and a love of complacence to the truly amiable, we imitate God, and give the brighteſt poſſible diſplay of an heavenly temper. In this view, chriſtians are exhorted to be perfect, as their Father in heaven is perfect.</p>
             <p>
-               <pb n="16" facs="tcp:030653_0016_0FE84F06CA44FF70"/>The repeated injunctions of ſacred ſcripture, fur<g ref="char:EOLhyphen"/>ther, render the cultivation, and exerciſe of this chriſ<g ref="char:EOLhyphen"/>tian virtue indiſpenſibly binding.</p>
+               <pb n="16" facs="unknown:030653_0016_0FE84F06CA44FF70"/>The repeated injunctions of ſacred ſcripture, fur<g ref="char:EOLhyphen"/>ther, render the cultivation, and exerciſe of this chriſ<g ref="char:EOLhyphen"/>tian virtue indiſpenſibly binding.</p>
             <p>Even, under the comparatively dark, and partial diſpenſation of the law, humanity and compaſſion were as repeatedly urged, and cogently enforced, as any of the direct duties of devotion. Yea, under both diſpenſations, poſitive and ritual duties, are held in ſubordination to thoſe, of the moral and ſocial kind. Said God in reference to the ritual ſervices of his people of old—"bring no more vain oblations; learn to do well; ſeek judgment; relieve the oppreſſ<g ref="char:EOLhyphen"/>ed; judge the fatherleſs; plead for the widow." Similar to this, is that reply made by our bleſſed Lord, to the cavilling Phariſees—"Go ye, and learn what that meaneth; I will have mercy, and not ſa<g ref="char:EOLhyphen"/>crifice." And the apoſtle Peter exhorts chriſtians to love as brethren.</p>
             <p>The ſame ſublime virtue is urged upon the Coloſ<g ref="char:EOLhyphen"/>ſian converts, with the moſt perſuaſive eloquence. "Put on therefore, as the elect of God holy, and be<g ref="char:EOLhyphen"/>loved, bowels of mercies, kindneſs, humbleneſs of mind, meekneſs, long-ſuffering, forbearing one ano<g ref="char:EOLhyphen"/>ther, and forgiving one another.</p>
             <p>Of ſo eminent a rank is this virtue in our text, that it is conſidered as eſſential to the chriſtian cha<g ref="char:EOLhyphen"/>racter. The man who is deſtitute of bowels of com<g ref="char:EOLhyphen"/>paſſion for the diſtreſſed, is a ſtranger to religion, an enemy to God.</p>
             <p>Equally important, and indiſpenſible, does this virtue appear, from that relation, and mutual depen<g ref="char:EOLhyphen"/>dence ſubſiſting, between the numerous members of the great family of man.</p>
             <p>If we confine our views to chriſtians, they are of the ſame nature, in a ſpiritual view, born from above;
-<pb n="17" facs="tcp:030653_0017_0FE84F5B88EBA548"/>
+<pb n="17" facs="unknown:030653_0017_0FE84F5B88EBA548"/>
 begotten to the ſame lively hope; have one common Lord; are engaged in one cauſe, and are all tending to the ſame glorious end. Unity and love, and the tendereſt affection, ought of courſe, to pervade the whole body.</p>
             <p>A relation in a natural, and civil reſpect, between the numerous members of the human race, calls for the exerciſe of the ſame virtue throughout the whole.</p>
             <p>However diverſe the complexion, capacities, tem<g ref="char:EOLhyphen"/>pers, intereſt, and manners of men, they are all deſ<g ref="char:EOLhyphen"/>cended from one common progenitor; and of courſe have the ſame nature. Says the great Apoſtle— "God hath made of one blood, all fleſh to dwell on the earth." To love as brethren then, is a duty re<g ref="char:EOLhyphen"/>ſulting from the conſtitution of nature.</p>
@@ -240,7 +243,7 @@ begotten to the ſame lively hope; have one common Lord; are engaged in one cau�
             <p>Sordid paſſions are the baneful ſource of anarchy, and war, and of all that wretchednſes and wo, which are the unhappy lot of mortality.</p>
             <p>In the laſt place, I obſerve—that the refined plea<g ref="char:EOLhyphen"/>ſures reſulting from the ſublime affection, which chriſtianity inculcates, and inſpires, further evince their importance, and afford a perſuaſive argument to the cultivation, and exerciſe of them.</p>
             <p>
-               <pb n="18" facs="tcp:030653_0018_0FE84F5D2997DF78"/>Unruly paſſions create a painful ferment in the mind, which renders a man like a troubled ſea, whoſe waters caſt up mire and dirt.</p>
+               <pb n="18" facs="unknown:030653_0018_0FE84F5D2997DF78"/>Unruly paſſions create a painful ferment in the mind, which renders a man like a troubled ſea, whoſe waters caſt up mire and dirt.</p>
             <p>But the chriſtian virtues inſpire a ſolid peace; a peace, reſulting from conſcious conformity to princi<g ref="char:EOLhyphen"/>ples of reaſon and religion, and a conſequent proſ<g ref="char:EOLhyphen"/>pect of immortality.</p>
             <p>Thus, amiable, extenſively uſeful, and highly im<g ref="char:EOLhyphen"/>portant, are thoſe ſocial virtues recommended in the Goſpel; a comprehenſive branch of which is involv<g ref="char:EOLhyphen"/>ed in that tender compaſſion, urged in our text.</p>
             <p>The man, who lives in the exerciſe of this chriſ<g ref="char:EOLhyphen"/>tian love, and compaſſion, is a favourite of heaven, and the beſt friend to man. A contrary character, is an enemy to God, to himſelf, to his country, and the world.</p>
@@ -248,7 +251,7 @@ begotten to the ſame lively hope; have one common Lord; are engaged in one cau�
             <p>Upon this principle, the religion of the Goſpel is cordially embraced, and its inſtitutions revered, by the really wiſe and truly good.</p>
             <p>For a ſimilar reaſon, principles of Maſonry, ſo far as I have been able to collect information, from au<g ref="char:EOLhyphen"/>thentic documents, merit approbation. For they in<g ref="char:EOLhyphen"/>volve the moral, and ſocial virtues, ſo clearly explain<g ref="char:EOLhyphen"/>ed, and cogently enforced in the Goſpel of Chriſt.</p>
             <p>I find that a Maſon is ſacredly bound, to an uniform obſervation of the ſame duties to God, himſelf, his neighbour, and to man, which the religion of na<g ref="char:EOLhyphen"/>ture
-<pb n="19" facs="tcp:030653_0019_0FE84F643AC0E0D8"/>
+<pb n="19" facs="unknown:030653_0019_0FE84F643AC0E0D8"/>
 and revelation unitedly enforce. He is bound "to fear God, love the brotherhood, and honour all men." In reſpect to God, he is required "to look to him, as the chief good;" and "to ſpeak of his name, with reverence, and awe." In regard to his neighbour, he is obliged "to act upon the ſquare;" (i. e.) "to do to others, as he would that others ſhould do to him." Relative to himſelf, <q>a Maſon is bound to avoid every ſpecies of irregularity, and intem<g ref="char:EOLhyphen"/>perance, unbecoming the dignity of human nature.</q> Eſpecially is he obliged, "to practice benevolence, and charity."</p>
             <p>Theſe I conceive, to be ſome of the diſtinguiſhing characteriſticks of this ancient, and honourable in<g ref="char:EOLhyphen"/>ſtitution.</p>
             <p>Its antiquity is indiſputable. That, it deſerves the appellation of honourable, an appeal to its principles as above, may evince.</p>
@@ -257,7 +260,7 @@ and revelation unitedly enforce. He is bound "to fear God, love the brotherhood,
             <p>In no inſtance, perhaps, has the Inſtitution been proved an obſtruction, to civil, eccleſiaſtical, or ſo<g ref="char:EOLhyphen"/>cial happineſs.</p>
             <p>I will hazard a preſumption, that, many of the great human family have experienced its beneficial effects.</p>
             <p>
-               <pb n="20" facs="tcp:030653_0020_0FE84F65CE7504F0"/>Are not theſe reaſons ſufficient, if not to induce approbation, yet, to forbid cenſure?</p>
+               <pb n="20" facs="unknown:030653_0020_0FE84F65CE7504F0"/>Are not theſe reaſons ſufficient, if not to induce approbation, yet, to forbid cenſure?</p>
             <p>That Maſons do, in numerous inſtances, counter<g ref="char:EOLhyphen"/>act their profeſſion, and eſſentially deviate from their excellent principles, like every other Denomination, is undoubtedly true.</p>
             <p>Nevertheleſs, their theory may merit approbation; while their practice deſerves cenſure,</p>
             <p>Principles are founded in nature, and exiſt, inde<g ref="char:EOLhyphen"/>pendently of practice.</p>
@@ -267,7 +270,7 @@ and revelation unitedly enforce. He is bound "to fear God, love the brotherhood,
             <p>This, ought to ſerve, as a powerful motive, with every maſonic ſociety, to an uniform exhibition, of thoſe moral, ſocial, and chriſtian virtues, which are the ornament of human nature, and will infallibly ſecure publick approbation, and private eſteem.</p>
             <p>Peculiarly important is it, that, this argument ſhould have a practical influence, upon the newly conſtituted Lodge in this Town. For it is now in its infancy; and is here, a novelty.</p>
             <p>Various opinions are formed reſpecting it. Some ſuppoſe it to be of an evil tendency: others may
-<pb n="21" facs="tcp:030653_0021_0FE84F6CF3C0A458"/>
+<pb n="21" facs="unknown:030653_0021_0FE84F6CF3C0A458"/>
 think it of no uſe to ſociety; and ſome conſider it a matter of indifference.</p>
             <p>Which of theſe conjectures are founded in truth, your conduct, Gentlemen, will decide.</p>
             <p>Let the ſolemn charges in your book of conſtitu<g ref="char:EOLhyphen"/>tions be obſerved, and the principles of the Order re<g ref="char:EOLhyphen"/>duced to practice; ſure I am, that you may ſhine, as the ornaments of civil ſociety.</p>
@@ -278,7 +281,7 @@ think it of no uſe to ſociety; and ſome conſider it a matter of indifference
             <p>The eminently good, in all ages of the world, have conſidered this, an important branch of ſocial duty; and have not failed to pay a devout regard to its ob<g ref="char:EOLhyphen"/>ligation.</p>
             <p>To ſee its neglect ſanctioned by a ſociety, will not fail to caſt an indelible blot upon their character.</p>
             <p>You will allow me to obſerve—that it will not be altogether unimportant for this, and other detached
-<pb n="22" facs="tcp:030653_0022_0FE84F6E895CFCE8"/>
+<pb n="22" facs="unknown:030653_0022_0FE84F6E895CFCE8"/>
 portions of the great Maſonic Fraternity, to caution the young, and leſs informed members, againſt a fond indulgence, in rapturous encomiums upon the ſublime myſteries of Maſonry: As if, in that ſyſtem, every ſcattering ray, leading to a knowledge of truth, were collected to a point.</p>
             <p>Such empty ſuggeſtions, a man of reaſon and in<g ref="char:EOLhyphen"/>formation, ever views with a benevolent contempt.</p>
             <p>Finally, my friends—whatever may be your pro<g ref="char:EOLhyphen"/>ficiency in maſonry, keep in view the infinite import<g ref="char:EOLhyphen"/>ance of Goſpel piety.</p>
@@ -287,7 +290,7 @@ portions of the great Maſonic Fraternity, to caution the young, and leſs infor
             <p>Religion lays the only foundation of preſent peace, or future felicity. Its eſſence conſiſts, not, in lifeleſs ſpeculations, which only enkindle enthuſiaſtic rap<g ref="char:EOLhyphen"/>tures; but, in inward purity and love.</p>
             <p>The ſublime pleaſures, reſulting from this prin<g ref="char:EOLhyphen"/>ciple, of heavenly extract, are a profound ſecret to the world; a ſecret, never taught, but in the ſchool of Chriſt, entruſted to none, but followers of the Lamb.</p>
             <p>Said our Lord—"I am the good ſhepherd, and know my ſheep, and am known of mine." The Ev<g ref="char:EOLhyphen"/>angeliſt informs us—that "the ſheep follow Chriſt, for they know his voice, but a ſtranger will they not
-<pb n="23" facs="tcp:030653_0023_0FE84F758A97AB80"/>
+<pb n="23" facs="unknown:030653_0023_0FE84F758A97AB80"/>
 follow." Here are tokens, by which, a chriſtian will find admiſſion into the New Jeruſalem, the city of the Living God.</p>
             <p>The grand token is, the chriſtian temper: a pract<g ref="char:EOLhyphen"/>ical faith, which triumphs over the world.</p>
             <p>To him that overcometh, will I grant to eat of the hidden manna; and I will give him a white ſtone; and in the ſtone a new name written, which no man knoweth, ſaving he that receiveth it.</p>
